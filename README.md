@@ -78,3 +78,6 @@ Contributions are welcomed! Please follow these steps:
 ### Acknowledgments
 Inspired by examples of TCP servers and multithreading concepts in Java.
 Special thanks to online communities for their valuable resources and support.
+
+### Developer
+This project is built by Me: ***Shobhit Singh***
