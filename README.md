@@ -1,4 +1,4 @@
-# MultiThreaded-WebServer
+# MultiThreaded WebServer
 A robust multithreaded TCP web server in Java that efficiently manages multiple client connections with personalized responses.
 
 ## Table of Contents
